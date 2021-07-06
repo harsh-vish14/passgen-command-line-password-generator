@@ -4,7 +4,9 @@
 Node.js command line app to generate random passwords
 
 
-https://user-images.githubusercontent.com/67375762/124557875-a1065580-de57-11eb-9ddb-9ed3fc2558b4.mp4
+
+https://user-images.githubusercontent.com/67375762/124560525-85507e80-de5a-11eb-9f9b-9e8f3118955c.mp4
+
 
 
 ## Usage
